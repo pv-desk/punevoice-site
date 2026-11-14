@@ -1,0 +1,7 @@
+# Punevoice robots.txt. All crawlers may read everything, including CSS, JS and images.
+# Google-Extended (Gemini training and grounding) is left allowed; that is a business decision for the owner, not a search one.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.punevoicenews.com/sitemap.xml
+Sitemap: https://www.punevoicenews.com/news-sitemap.xml
